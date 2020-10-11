@@ -6,4 +6,4 @@ It includes:</br>
 - Intel 8086 microprocessor projects in assembly.
 - AVR ATmega16 microprocessor projects in assembly and C.
  
-These exercises were a collaboration with Freideriki(Erica) Kaperoni.
+These exercises were realised with Freideriki (Erica) Kaperoni.
